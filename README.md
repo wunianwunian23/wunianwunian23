@@ -1,5 +1,15 @@
-## Hi there 👋
-
+## 兴趣方向 
+板绘，3D建模，游戏引擎设计，动画制作
+## 目前会什么
+板绘，文案
+## 正在学习
+彩绘，c++，blender,软件架构，游戏编程
+## 想做什么
+用unity开发游戏，设计自己的游戏角色并实现，学会制作游戏动画
+## 希望承担的角色
+策划，角色设计，文案，板绘
+## 擅长的事
+逻辑，绘画，沟通，写文案，组织协商
 <!--
 **wunianwunian23/wunianwunian23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
